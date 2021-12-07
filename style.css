@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+.container {
+    font-family: cursive;
+    font-size: 45px;
+    color: green;
+    
+}
+.clock {
+    font-family: cursive;
+    font-size: 45px;
+    color:red;
+    
+}
+#clockContainer {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: orange;
+   
+}
+#clock {
+    padding: 10px;
+    background-color: blue;
+    border-radius: 5px;
+    margin-left: 10px;
+}
